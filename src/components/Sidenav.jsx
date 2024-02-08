@@ -35,7 +35,7 @@ export default function Sidenav() {
       />
       {nav ? (
         
-        <div className="fixed w-full h-screen bg-white/30 flex flex-col justify-center items-center z-20 md:hidden hover:fill-black">
+        <div className="fixed w-full h-screen bg-white/90 flex flex-col justify-center items-center z-20 md:hidden hover:fill-black">
           {/* <img className='w-full h-screen object-cover' src="https://images.unsplash.com/photo-1505238680356-667803448bb6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="" /> */}
           <a
             href="#main"
